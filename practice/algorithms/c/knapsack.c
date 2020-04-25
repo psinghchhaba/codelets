@@ -1,3 +1,7 @@
+/**
+ * Recursive solution for 0/1 knapsack problem
+ */
+
 #include <stdio.h>
 
 #define MAX(a, b) ((a > b) ? a : b)

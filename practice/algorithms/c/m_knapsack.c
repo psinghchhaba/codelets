@@ -1,3 +1,7 @@
+/**
+ * Recursive + memoised solution for 0/1 knapsack problem
+ */
+
 #include <stdio.h>
 #include <string.h>
 
